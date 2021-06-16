@@ -1,6 +1,6 @@
 # README for the lecture/talk series at Osaka University, June 2021
 
-* 大阪大学 基礎工学部 電気工学特別講義 2020年度
+* 大阪大学 基礎工学部 電気工学特別講義 2021年度
 * Kenji Rikitake / 力武 健次
 * Latest revision: 16-JUN-2021
 

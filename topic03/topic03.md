@@ -17,7 +17,7 @@ School of Engineering Science, Osaka University
 On the internet
 @jj1bdx
 
-Copyright ©2018-2020 Kenji Rikitake.
+Copyright ©2018-2021 Kenji Rikitake.
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ---
@@ -32,7 +32,7 @@ Osaka University School of Engineering Science prohibits copying/redistribution 
 
 # Lecture notes and reporting
 
-* <https://github.com/jj1bdx/oueees-202006-public/>
+* <https://github.com/jj1bdx/oueees-202106-public/>
 * Check out the README.md file and the issues!
 * Keyword at the end of the talk
 * URL for submitting the report at the end of the talk

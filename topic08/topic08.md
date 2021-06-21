@@ -118,13 +118,23 @@ Osaka University School of Engineering Science prohibits copying/redistribution 
 
 ---
 
-# Web: HTTP/2 (TCP) .vs. QUIC (UDP)
+# Web: HTTP/2 (TCP) and QUIC (UDP) -> HTTP/3
 
-* People wants *speed*
-* HTTP/2: stream aggregation and content compression
-* HTTP/2 is still bound by TCP
-* QUIC: tightly integrated to HTTP/2 and specific congestion control
-* Google is migrating to HTTP/2 + QUIC
+* People wants *speed* and *smaller latency*
+* HTTP/2 (RFC7540): TCP-bound, stream aggregation and content compression
+* QUIC (RFC9000): UDP-based, tightly integrated to HTTP/2 and specific congestion control
+* HTTP/2 had *head-of-line blocking problem* by TCP
+* Major browsers have already supported HTTP/3 (= HTTP/2 over QUIC)
+
+---
+
+![right,fit](HOL_blocking.png)
+
+# Buffering and head-of-line (HOL) blocking
+
+* Buffering causes only the oldest packets to be forwarded
+* Newer packets could be forwarded without HOL blocking
+* In this example, moving buffers to output ports will avoid the delay for Output 3 at Input 1, blocked by the contention of Output 4
 
 ---
 
@@ -134,6 +144,7 @@ Osaka University School of Engineering Science prohibits copying/redistribution 
 * Photos are from Unsplash.com unless otherwise noted
 * UDP Encapsulation: [en:User:Cburnett original work, colorization by en:User:Kbrose, from Wikimedia Commons](https://commons.wikimedia.org/wiki/File:UDP_encapsulation.svg), CC BY-SA 3.0
 * TCP Transport: [By Huage.chen from Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tcp_transport_example.gif), CC BY-SA 3.0
+* Head-of-link Blocking: [By Moorcock from Wikipedia](https://en.wikipedia.org/wiki/File:HOL_blocking.png), Public Domain
 
 <!-- Photo and image credits here -->
 

@@ -25,7 +25,7 @@ I deliver the lecture in asynchronous format as a series of short videos this ye
 Talk topics included but not limited to:
 
 * 00: Intro (self introduction)
-* 01: Latency and Laws of Physics
+* 01: Latency and laws of physics
 * 02: Centralized communication
 * 03: Multiplexing
 * 04: Packet switching

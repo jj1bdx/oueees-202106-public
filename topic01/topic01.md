@@ -4,7 +4,7 @@ slidenumbers: true
 autoscale: true
 
 # oueees-202106 topic 01:
-# [fit] Latency and Laws of Physics
+# [fit] Latency and laws of physics
 
 <!-- Use Deckset 2.0, 16:9 aspect ratio -->
 
@@ -40,7 +40,7 @@ Osaka University School of Engineering Science prohibits copying/redistribution 
 ---
 
 # Topic of this video:
-# [fit] Latency and Laws of Physics
+# [fit] Latency and laws of physics
 
 ---
 

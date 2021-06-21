@@ -57,8 +57,19 @@ Osaka University School of Engineering Science prohibits copying/redistribution 
 
 # プロフェッショナルIPv6
 
+- ラムダノート ISBN 9784908686047
 - [ラムダノートの紙の本+電子書籍](https://www.lambdanote.com/products/ipv6)
 - [Boothの無料版](https://professionalipv6.booth.pm/items/913273)
+
+---
+
+![right fit](professional-ssltls.jpg)
+
+# プロフェッショナルSSL/TLS
+
+- ラムダノート ISBN 9784908686009
+- [ラムダノートの紙の本+電子書籍](https://www.lambdanote.com/products/tls)
+- [無料の抜粋版「OpenSSLクックブック」](https://www.lambdanote.com/products/openssl)
 
 <!--
 Local Variables:

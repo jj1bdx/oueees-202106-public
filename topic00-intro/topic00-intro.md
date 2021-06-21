@@ -82,9 +82,27 @@ Osaka University School of Engineering Science prohibits copying/redistribution 
 
 ---
 
+![fit](nicole-baster-6_y5Sww0-h4-unsplash.jpg)
+
+# [fit] 2020
+# [fit] Black Lives Matter
+
+---
+
+![original,fit](jason-leung-WAch7jpfk8U-unsplash.jpg)
+
+---
+
+![fit](jason-leung-WAch7jpfk8U-unsplash.jpg)
+
+# [fit] 2021
+# [fit] Stop Asian Hate
+
+---
+
 # [fit] Safety first
 # [fit] Stay alive
-# [fit] Don't be a slave
+# [fit] Get out of slavery
 
 ---
 
@@ -215,8 +233,9 @@ Erlang, Elixir, C, FreeBSD, Linux, TCP/IP, PHP, mruby, Lua, C++, C#, Visual Stud
 
 # Picture credits:
 
-* My photo: by Suzuki Shin, at 鈴木心写真館, courtesy Wantedly Official Profile
+* My photo: by Suzuki Shin, at 鈴木心写真館, courtesy [Wantedly Official Profile](https://www.wantedly.com/id/jj1bdx)
 * Black Lives Matter: Nicole Baster, from Unsplash, <https://unsplash.com/photos/6_y5Sww0-h4>
+* Stop Asian Hate: Jason Leung, from Unsplash, <https://unsplash.com/photos/WAch7jpfk8U>
 
 <!--
 Local Variables:

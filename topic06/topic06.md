@@ -109,20 +109,20 @@ Osaka University School of Engineering Science prohibits copying/redistribution 
 ---
 
 # [fit] IPv6 addresses: 128 bits
-# [fit] 2404:6800:400a:813::2004
-# [fit] = 2404:6800:400a:0813:0000:0000:0000:2004
+# [fit] 2404:6800:4004:812::200e
+# [fit] = 2404:6800:400a:0812:0000:0000:0000:200e
 
-* a www.google.com address, as of 7-JUN-2020 0315UTC
+* a www.google.com address, as of 21-JUN-2021 0628UTC
 * :xxxx: = up to 4 hex digits
 * :: = arbitrary number of 0, appearing only once in an address
 
 ---
 
 # [fit] IPv6 addresses with netmask
-# [fit] 2404:6800:400a:813::2004/64
+# [fit] 2404:6800:400a:812::200e/64
 
-* Network: 2404:6800:400a:813::/64
-* Host number: 0x0000000000002004
+* Network: 2404:6800:400a:812::/64
+* Host number: 0x000000000000200e
 * Host number: 64 bits (0: network)
 * Broadcast -> multicast addresses
 * ff02::1 = all hosts, ff02::2 = all routers, etc.
@@ -135,6 +135,7 @@ Osaka University School of Engineering Science prohibits copying/redistribution 
 - No more new address block for IPv4
 - You need to buy unused blocks from other users
 - Took ~20 years (1996-2016) for the transition from IPv4 to IPv6
+- IPv6 has less users and nodes; plausibly faster
 
 ---
 
